@@ -12,3 +12,6 @@ alert("Hello " + nameChris);
 var dogAge= 4;
 alert("Your dog's age is " + dogAge * 7);
 alert("1+1= " + 2);
+
+// alternate soltuion
+// alert("1 + 1 =" + (1+1))
